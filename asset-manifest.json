@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/robertgarcia305/todo-list-react/static/css/main.62d0d15c.css",
-    "main.js": "/robertgarcia305/todo-list-react/static/js/main.055f9a0e.js",
-    "static/js/787.d93b6323.chunk.js": "/robertgarcia305/todo-list-react/static/js/787.d93b6323.chunk.js",
-    "index.html": "/robertgarcia305/todo-list-react/index.html",
-    "main.62d0d15c.css.map": "/robertgarcia305/todo-list-react/static/css/main.62d0d15c.css.map",
-    "main.055f9a0e.js.map": "/robertgarcia305/todo-list-react/static/js/main.055f9a0e.js.map",
-    "787.d93b6323.chunk.js.map": "/robertgarcia305/todo-list-react/static/js/787.d93b6323.chunk.js.map"
+    "main.css": "/repository-name/static/css/main.62d0d15c.css",
+    "main.js": "/repository-name/static/js/main.f6e85962.js",
+    "static/js/787.d93b6323.chunk.js": "/repository-name/static/js/787.d93b6323.chunk.js",
+    "index.html": "/repository-name/index.html",
+    "main.62d0d15c.css.map": "/repository-name/static/css/main.62d0d15c.css.map",
+    "main.f6e85962.js.map": "/repository-name/static/js/main.f6e85962.js.map",
+    "787.d93b6323.chunk.js.map": "/repository-name/static/js/787.d93b6323.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62d0d15c.css",
-    "static/js/main.055f9a0e.js"
+    "static/js/main.f6e85962.js"
   ]
 }
