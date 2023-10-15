@@ -20,6 +20,12 @@ const App = () => {
         setTasks(updatedTasks);
     };
 
+    const handleInputKeyDown = (e) => {
+      if (e.key === "Enter") {
+        addTask();
+      }
+    };
+
     return (
         <div className="App">
             <div className="description">
@@ -40,6 +46,7 @@ const App = () => {
                         placeholder="add a task"
                         value={newTask}
                         onChange={(e) => setNewTask(e.target.value)}
+                        onKeyDown={handleInputKeyDown}
                     ></input>
                     <button onClick={addTask}>Add task</button>
                 </div>
